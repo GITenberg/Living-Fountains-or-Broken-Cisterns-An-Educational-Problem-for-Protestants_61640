@@ -1,11 +1,16 @@
 _repo: Living-Fountains-or-Broken-Cisterns-An-Educational-Problem-for-Protestants_61640
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61640-h/images/cover.jpg
 creator:
   author:
     agent_name: Sutherland, E. A. (Edward Alexander)
     gutenberg_agent_id: '51537'
     url: http://www.gutenberg.org/2009/agents/51537
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61640#Living-Fountains-or-Broken-Cisterns-An-Educational-Problem-for-Protestants
 gutenberg_issued: '2020-03-20'
 gutenberg_type: Text
 identifiers:
